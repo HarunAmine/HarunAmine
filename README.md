@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harun Amine
-- 👀 I’m interested in AI, Machine learning , Quantum computing and Maths
+- 👀 I’m interested in AI, Machine learning , Quantum computing and Mathematics
 - 🌱 I’m currently studting my Alevels: Maths,Further Maths,Computer Science and Physics
 - ⚒️ I'm currently aspairaing to become a sotware engineer at FANG :D
 - 🎓 I'm planning to go to university to do a masters in Computer Science
